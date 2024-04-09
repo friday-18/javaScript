@@ -11,7 +11,7 @@ let isLoggedin = false
 // bigINT
 // string -> " useDouble quotes"
 // boolean --> dichotomy --> true/false
-// null -> standalone value {representation of empty}
+// null -> standalone value {representation of empty} eg is temperature .. if 0 degree then too cold but we want null (It is also an object when we check it as type of )
 // undefined --> STILL THE VALUE IS NOT ASSIGNED 
 // symbol -> unique
 
