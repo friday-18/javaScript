@@ -25,3 +25,4 @@ console.log(typeof age); // number
 console.log(typeof null); // object 
 console.log(typeof undefined); // undefined
 
+console.log("Hello world");
